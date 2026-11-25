@@ -43,20 +43,12 @@ AI-ML-Portfolio/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-To run this portfolio on your local computer:
-
-1. Clone this repository:
+## 🚀visit my protfolio
+ 
 
     https://vaidehisurani.github.io/vaidehi_267544_protfolio/
  
-
-2. Open the project folder in Visual Studio Code.
-
-3. Open `index.html` in your browser.
-
-   You can also use the **Live Server** extension for a better development experience.
+ 
 
 ## 👩‍💻 About Me
 
