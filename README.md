@@ -49,9 +49,8 @@ To run this portfolio on your local computer:
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/vaidehisurani/vaidehi-ai-ml-portfolio.git
-   ```
+    https://vaidehisurani.github.io/vaidehi_267544_protfolio/
+ 
 
 2. Open the project folder in Visual Studio Code.
 
